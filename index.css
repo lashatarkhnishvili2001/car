@@ -1,0 +1,15 @@
+.navbar {
+  position: sticky;
+  top: 0;
+  z-index: 777;
+  background-color: rgba(255, 255, 255, 1);
+}
+
+.hide {
+  display: none;
+}
+
+.error-field {
+  border: 1px solid red;
+  background-color: rgba(255, 0, 0, 0.3);
+}
